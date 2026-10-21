@@ -1,0 +1,21 @@
+- main "海岛奇缘第一页" [ref=f1e2]:
+  - button "开启背景音乐" [pressed] [ref=f1e3] [cursor=pointer]:
+    - generic [ref=f1e6]: 音乐
+  - figure "十月日历木框、日历和庚辰年木牌" [ref=f1e17]:
+    - img "十月日历，生日日期已圈出" [ref=f1e18]
+    - img "2026年11月像素风生日日历"
+    - img "像素木制日历边框"
+  - figure [ref=f1e19]:
+    - img "陵水岛屿地图" [ref=f1e20]
+  - figure [aria-hidden]
+  - figure [aria-hidden]
+  - figure [aria-hidden]:
+    - button [disabled]
+  - button "打开漂流瓶" [ref=f1e21] [cursor=pointer]
+  - dialog [aria-hidden]:
+    - button: ×
+  - button "摇晃棕榈树" [ref=f1e22] [cursor=pointer]
+  - button "摇晃棕榈树" [ref=f1e23] [cursor=pointer]
+  - button "灵珠，点击切换为魔丸" [ref=f1e25] [cursor=pointer]:
+    - generic [ref=f1e29]: ✦
+    - generic [ref=f1e30]: ✧

@@ -1,0 +1,2 @@
+[     441ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8765/firework-audio.js?v=20261018-firework-audio:0
+[    2099ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://127.0.0.1:8765/favicon.ico:0

@@ -1,0 +1,20 @@
+- main "海岛奇缘第一页" [ref=e2]:
+  - figure "十月日历木框、日历和庚辰年木牌" [ref=e9]:
+    - img "十月日历，生日日期已圈出" [ref=e10]
+    - img "2026年11月像素风生日日历"
+    - img "像素木制日历边框"
+  - figure [ref=e11]:
+    - img "陵水岛屿地图" [ref=e12]
+  - figure [aria-hidden]
+  - figure [aria-hidden]
+  - figure [aria-hidden]:
+    - button [disabled]
+  - button "漂流瓶中的神秘来信已打开" [active] [ref=e23] [cursor=pointer]
+  - dialog "神秘来信":
+    - img "神秘来信"
+    - button "收起神秘来信" [ref=e24] [cursor=pointer]: ×
+  - button "摇晃棕榈树" [ref=e14] [cursor=pointer]
+  - button "摇晃棕榈树" [ref=e15] [cursor=pointer]
+  - button "灵珠，点击切换为魔丸" [ref=e17] [cursor=pointer]:
+    - generic [ref=e21]: ✦
+    - generic [ref=e22]: ✧

@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#0878d9">
+  <title>海岛奇缘 · 灵珠降世</title>
+  <link rel="stylesheet" href="style.css?v=20261018-island-music">
+</head>
+<body>
+  <main class="world" aria-label="海岛奇缘第一页">
+    <button class="music-toggle" type="button" aria-label="开启背景音乐" aria-pressed="true" data-state="ready" title="开启背景音乐">
+      <svg class="music-note" viewBox="0 0 20 20" width="20" height="20" aria-hidden="true"><path d="M7 4h2V2h9v12h-2V6H9v10H7zM3 14h4v4H3zM12 12h4v4h-4z" fill="currentColor"/></svg>
+      <span>音乐</span><span class="music-levels" aria-hidden="true"><i></i><i></i><i></i></span>
+    </button>
+    <div class="sky-glow" aria-hidden="true"></div>
+    <div class="cloud" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></div>
+    <figure class="calendar" aria-label="十月日历木框、日历和庚辰年木牌">
+      <img class="calendar-sheet" src="素材/Fig.3.2像素风十月日历与南瓜向日葵.png" alt="十月日历，生日日期已圈出" draggable="false">
+      <img class="calendar-next" src="素材/Fig.3.5 2026年11月像素风生日日历.png" alt="2026年11月像素风生日日历">
+      <img class="calendar-frame" src="素材/Fig.3.3像素木制边框与金属铆钉.png" alt="像素木制日历边框">
+    </figure>
+    <figure class="island"><img src="素材/Fig.2像素艺术陵水岛屿地图.png" alt="陵水岛屿地图"></figure>
+    <figure class="second-page-element page-two-character" aria-label="海岛上的派对女孩" aria-hidden="true">
+      <img class="party-girl-image" src="素材/Fig.8欢庆派对帽像素少女.png" alt="">
+    </figure>
+    <figure class="second-page-element page-two-fisher" aria-label="海岛上的夜钓渔夫" aria-hidden="true">
+      <img src="素材/Fig.9.1像素风渔夫与水波 Sprite.png" alt="">
+    </figure>
+    <figure class="second-page-element page-two-fireworks" aria-label="海岛上的烟花礼盒" aria-hidden="true">
+      <button class="firework-launcher" type="button" aria-label="点燃烟花" disabled>
+        <img class="firework-box" src="素材/Fig.9.2像素烟花礼盒与彩色爆竹.png" alt="">
+      </button>
+    </figure>
+    <div class="firework-layer" aria-hidden="true">
+      <img class="firework-match-cursor" src="素材/Fig.9.3像素艺术燃烧的火柴.png" alt="">
+    </div>
+    <button class="message-bottle" type="button" aria-label="打开漂流瓶">
+      <img src="素材/Fig.6像素艺术漂流瓶与藏宝信.png" alt="">
+    </button>
+    <figure class="mystery-letter" role="dialog" aria-label="神秘来信" aria-hidden="true">
+      <img src="素材/Fig.6.1像素艺术神秘来信 parchment.png" alt="神秘来信">
+      <button class="letter-dismiss" type="button" aria-label="收起神秘来信">×</button>
+    </figure>
+    <button class="palm-tree palm-tree-1" type="button" aria-label="摇晃棕榈树">
+      <img src="素材/Fig.5.1.png" alt="">
+    </button>
+    <button class="palm-tree palm-tree-2" type="button" aria-label="摇晃棕榈树">
+      <img src="素材/Fig.5.2.png" alt="">
+    </button>
+    <button class="page-two-cat" type="button" aria-label="抚摸停下来的黑猫" aria-hidden="true" disabled>
+      <img class="black-cat-image" src="素材/Fig.11.1透明背景像素黑猫精灵.png" alt="">
+    </button>
+    <div class="easter-egg" role="button" tabindex="-1" aria-label="染红的复活节彩蛋" aria-hidden="true">
+      <span class="easter-egg-aura"></span>
+      <img src="素材/Fig.9.4像素红色复活节彩蛋.png" alt="">
+    </div>
+    <section class="egg-dialog" role="dialog" aria-label="复活节彩蛋提示" aria-modal="false" aria-hidden="true">
+      <p>这是一个染红的鸡蛋喵~听说是来自古老的传统喵~吃掉会带来好运喵~你要吃掉它嘛？喵~</p>
+      <div class="egg-dialog-actions">
+        <button class="egg-eat" type="button">吃掉</button>
+        <button class="egg-discard" type="button" disabled aria-disabled="true">丢掉</button>
+      </div>
+    </section>
+    <button class="fishing-exclamation" type="button" aria-label="查看钓鱼收获" aria-hidden="true" disabled>
+      <img src="素材/Fig.9.6像素风黄色感叹号爆发图标.png" alt="">
+    </button>
+    <section class="necklace-dialog" role="dialog" aria-label="冰蓝宝石项链介绍" aria-modal="false" aria-hidden="true">
+      <h2 class="necklace-card-title"><span aria-hidden="true">✦</span> 物品介绍</h2>
+      <p>来自深海龙宫的至宝喵~听说是公主最喜欢的项链喵~你要戴上试试看嘛？喵~</p>
+      <div class="necklace-dialog-actions">
+        <button class="necklace-wear" type="button">戴上</button>
+        <button class="necklace-discard" type="button" disabled aria-disabled="true">丢掉</button>
+      </div>
+    </section>
+    <figure class="page-two-necklace" aria-label="冰蓝宝石水滴项链" aria-hidden="true">
+      <img src="素材/Fig.9.5像素风冰蓝宝石水滴项链.png" alt="">
+    </figure>
+    <figure class="page-two-reward-farmer" aria-label="戴草帽的农场少年" aria-hidden="true">
+      <img src="素材/Fig.10戴草帽的像素农场少年.png" alt="">
+    </figure>
+    <section class="birthday-dialog" role="dialog" aria-label="黑猫的生日祝福" aria-describedby="birthday-message" aria-modal="false" aria-hidden="true" tabindex="-1">
+      <button class="birthday-dismiss" type="button" aria-label="收起生日祝福">×</button>
+      <span class="birthday-dialog-star" aria-hidden="true">✦</span>
+      <p id="birthday-message"><strong>yy陛下生日快乐！</strong><br>喵~永远开心喵~永远幸福喵~</p>
+    </section>
+    <div class="landing-glow" aria-hidden="true"></div>
+    <button class="spirit" type="button" aria-label="灵珠，点击切换为魔丸">
+      <span class="aura"></span><span class="orb"><i></i></span><span class="spark s1">✦</span><span class="spark s2">✧</span>
+    </button>
+  </main>
+  <audio class="palm-rustle-sound" src="素材/棕榈树叶沙沙声.wav" preload="auto" aria-hidden="true"></audio>
+  <audio class="cat-meow-sound" src="素材/小黑猫出场喵喵.wav?v=20261018-cat-meow" preload="auto" aria-hidden="true"></audio>
+  <audio class="music-day" loop preload="auto" aria-hidden="true"><source src="素材/晴日海风.ogg?v=20261018-quiet-mix" type="audio/ogg"><source src="素材/晴日海风.wav?v=20261018-quiet-mix" type="audio/wav"></audio>
+  <audio class="music-festival" loop preload="auto" aria-hidden="true"><source src="素材/星灯庆典.ogg?v=20261018-quiet-mix" type="audio/ogg"><source src="素材/星灯庆典.wav?v=20261018-quiet-mix" type="audio/wav"></audio>
+  <script src="firework-audio.js?v=20261018-quiet-mix"></script>
+  <script src="birthday-fireworks.js?v=20261018-firework-audio"></script>
+  <script src="firework-shapes.js?v=20261018-soft-26"></script>
+  <script src="island-fireworks.js?v=20261018-firework-audio"></script>
+  <script src="scene-music.js?v=20261018-quiet-mix"></script>
+  <script src="scene.js?v=20261018-cat-meow"></script>
+</body>
+</html>
