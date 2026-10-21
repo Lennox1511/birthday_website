@@ -1,0 +1,156 @@
+{
+  "generator": "generate-island-music.py",
+  "seed": 20261018,
+  "source_policy": "Original hand-composed melodies and synthesized instruments; no borrowed game melodies, samples or recordings.",
+  "loudness_method": "BS.1770-style K-weighted / absolute and relative gated estimate; decoded export metrics.",
+  "tracks": [
+    {
+      "title": "晴日海风 · Sunny Island Breeze",
+      "original": true,
+      "bpm_quarter_note": 112,
+      "meter": "4/4",
+      "bars": 16,
+      "key": "G major",
+      "instruments": [
+        "warm marimba",
+        "plucked strings",
+        "soft flute",
+        "round bass",
+        "shaker / wood tap / soft kick"
+      ],
+      "structure": "A (bars 1–4), A variation / flute answer (5–8), B / rising flute phrase (9–12), A return (13–16)",
+      "chord_progression": [
+        "G6",
+        "Dadd9/F#",
+        "Em7",
+        "Cmaj7",
+        "G/B",
+        "Am7",
+        "D7",
+        "G6",
+        "Cmaj7",
+        "G/B",
+        "Am7",
+        "D7",
+        "Em7",
+        "Cmaj7",
+        "D7",
+        "G6"
+      ],
+      "note_and_percussion_events": 552,
+      "loop_processing": "Circular note releases and reverb, periodic master filter, exact frame count; no silence padding or end fade.",
+      "exports": {
+        "ogg": {
+          "file": "晴日海风.ogg",
+          "size_bytes": 458651,
+          "duration_seconds": 34.285719,
+          "sample_rate_hz": 32000,
+          "channels": 2,
+          "peak_dbfs": -14.5,
+          "true_peak_dbtp_4x": -14.49,
+          "rms_dbfs": -26.43,
+          "integrated_lufs_estimate": -24.45,
+          "dc_offset": [
+            3.473e-06,
+            -3.98e-07
+          ],
+          "seam_sample_delta": 0.0010314,
+          "sample_delta_p99": 0.0116332,
+          "clipped_samples": 0
+        },
+        "wav": {
+          "file": "晴日海风.wav",
+          "size_bytes": 4388616,
+          "duration_seconds": 34.285719,
+          "sample_rate_hz": 32000,
+          "channels": 2,
+          "peak_dbfs": -14.56,
+          "true_peak_dbtp_4x": -14.55,
+          "rms_dbfs": -26.47,
+          "integrated_lufs_estimate": -24.5,
+          "dc_offset": [
+            -1.5251e-05,
+            -1.5241e-05
+          ],
+          "seam_sample_delta": 0.0011902,
+          "sample_delta_p99": 0.0115967,
+          "clipped_samples": 0
+        }
+      }
+    },
+    {
+      "title": "星灯庆典 · Lantern Island Festival",
+      "original": true,
+      "bpm_quarter_note": 128,
+      "meter": "4/4",
+      "bars": 16,
+      "key": "C major",
+      "instruments": [
+        "marimba",
+        "soft accordion / pulse reed",
+        "plucked strings",
+        "bouncy bass",
+        "soft kick / handclap / shaker / tambourine"
+      ],
+      "structure": "A dance (bars 1–4), A variation (5–8), B / accordion response (9–12), returning finale / pickup (13–16)",
+      "chord_progression": [
+        "C6",
+        "G/B",
+        "Am7",
+        "Fmaj7",
+        "C/E",
+        "Dm7",
+        "G7",
+        "C6",
+        "Fmaj7",
+        "G",
+        "Em7",
+        "Am7",
+        "Dm7",
+        "Fmaj7",
+        "G7",
+        "C6"
+      ],
+      "note_and_percussion_events": 766,
+      "loop_processing": "Circular note releases and reverb, periodic master filter, exact frame count; no silence padding or end fade.",
+      "exports": {
+        "ogg": {
+          "file": "星灯庆典.ogg",
+          "size_bytes": 411611,
+          "duration_seconds": 30.0,
+          "sample_rate_hz": 32000,
+          "channels": 2,
+          "peak_dbfs": -12.9,
+          "true_peak_dbtp_4x": -12.9,
+          "rms_dbfs": -26.11,
+          "integrated_lufs_estimate": -23.96,
+          "dc_offset": [
+            -5.79e-07,
+            -5.07e-06
+          ],
+          "seam_sample_delta": 0.0006746,
+          "sample_delta_p99": 0.0195149,
+          "clipped_samples": 0
+        },
+        "wav": {
+          "file": "星灯庆典.wav",
+          "size_bytes": 3840044,
+          "duration_seconds": 30.0,
+          "sample_rate_hz": 32000,
+          "channels": 2,
+          "peak_dbfs": -13.03,
+          "true_peak_dbtp_4x": -13.02,
+          "rms_dbfs": -26.16,
+          "integrated_lufs_estimate": -24.0,
+          "dc_offset": [
+            -1.526e-05,
+            -1.5257e-05
+          ],
+          "seam_sample_delta": 0.0004883,
+          "sample_delta_p99": 0.0194702,
+          "clipped_samples": 0
+        }
+      }
+    }
+  ]
+}

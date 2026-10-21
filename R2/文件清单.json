@@ -1,0 +1,273 @@
+{
+  "version": "R2.0.1",
+  "date": "2026-10-18",
+  "entryPoint": "index.html",
+  "note": "本清单不包含文件清单.json自身；校验值采用SHA-256。",
+  "files": [
+    {
+      "path": "birthday-fireworks.js",
+      "bytes": 12387,
+      "sha256": "d1ead49abaa46662a5b30428e471230962209e4e9ac2487db39631b20c49ee4a"
+    },
+    {
+      "path": "firework-audio.js",
+      "bytes": 9583,
+      "sha256": "8edbc4b4a9024413ea8cbf8e6047cbdfe1af483c28d255e9decd9674415a1083"
+    },
+    {
+      "path": "firework-shapes.js",
+      "bytes": 16583,
+      "sha256": "8012f49b37f8e8c5bc219a8ecf6485f5c73150755cb468aeda43303bdfb72769"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7397,
+      "sha256": "3fda7e0168983856df23e39d59082c5414eb14be2cb3e1a9d6ac0bf4c9c6a4a4"
+    },
+    {
+      "path": "island-fireworks.js",
+      "bytes": 12672,
+      "sha256": "5980cf78a47b01c21b4f030ff3eccb6dd4d1aa1201039239342ce7d6ade9c508"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3371,
+      "sha256": "cadb5c4284b488b7146702ec63ec5ebe0c8726f662b20fdfe14957ca729e43cb"
+    },
+    {
+      "path": "scene-music.js",
+      "bytes": 7275,
+      "sha256": "d274c68b2be8a178ac456c358acc96deb06f77525cb9532f9170d77cee5f1f2b"
+    },
+    {
+      "path": "scene.js",
+      "bytes": 19657,
+      "sha256": "fff2f03e6da553444de5cf8d1bf4f5cb26262527a9110e160dd163513bbb4fc2"
+    },
+    {
+      "path": "style.css",
+      "bytes": 25950,
+      "sha256": "324b900eef9e0d914576a1fada3545bada248b989e42bfae0f8ea1c137defba0"
+    },
+    {
+      "path": "版本记录.md",
+      "bytes": 3277,
+      "sha256": "8091e878c2c448935b31f20677dc4e44346c39fef328461b005e7f2b94732a6b"
+    },
+    {
+      "path": "素材/Fig.1.1像素艺术热带海滩风光.png",
+      "bytes": 1801802,
+      "sha256": "6b9bdc7d929c006c5ff022f98ea3910755a528355bb2e6c38a46bace075883f4"
+    },
+    {
+      "path": "素材/Fig.10.1像素风花束围巾少年.png",
+      "bytes": 2039392,
+      "sha256": "2a9a6d8998b01adab7c92dc1a55e7442855cd070b71c52fed9d2f4a24c9cb682"
+    },
+    {
+      "path": "素材/Fig.10戴草帽的像素农场少年.png",
+      "bytes": 1428707,
+      "sha256": "e7028131eca3fa9ad980ce64b47e642ae4f06dcf0a2a810d781d2ce1f4af67a0"
+    },
+    {
+      "path": "素材/Fig.11.1透明背景像素黑猫精灵.png",
+      "bytes": 1079869,
+      "sha256": "fea9d012f544659c76fe893fc561871ad519978fae9dcf1bf558e2fe04567556"
+    },
+    {
+      "path": "素材/Fig.11.2像素风黑猫与金铃铛.png",
+      "bytes": 615266,
+      "sha256": "5fe993e34e92e7d5fbcca3d519edcabed74fc6a038f9d050eadb78bf8ab6223e"
+    },
+    {
+      "path": "素材/Fig.1像素艺术热带海滩风光.png",
+      "bytes": 1585220,
+      "sha256": "c14a775ca980f0f7edd51e83427b1671396fa4bbf9336b5aee67fdaa7e275018"
+    },
+    {
+      "path": "素材/Fig.2像素艺术陵水岛屿地图.png",
+      "bytes": 1855560,
+      "sha256": "5175970b30646bafd0c16a35f6de12abdcceb9afee936286f15dcc38fd0d1391"
+    },
+    {
+      "path": "素材/Fig.3.1复古像素木牌：庚辰年十月初五.png",
+      "bytes": 598363,
+      "sha256": "f007b66a6ee89edf9c6c39ef43013acb8d0c22e48a2519bd279446c710353c0a"
+    },
+    {
+      "path": "素材/Fig.3.2像素风十月日历与南瓜向日葵.png",
+      "bytes": 1796848,
+      "sha256": "8bb4a542038f623715e89b171b8d2c9784313569c2bb634d7548ac1c36e5b1cf"
+    },
+    {
+      "path": "素材/Fig.3.3像素木制边框与金属铆钉.png",
+      "bytes": 457328,
+      "sha256": "2e39f1b3c857acca04b5a37aa8d0c21db87d8c27780785065f1925fb7d054bdb"
+    },
+    {
+      "path": "素材/Fig.3.4丙午年十月初五像素木牌.png",
+      "bytes": 1197840,
+      "sha256": "4ba47ed0fa5cfe665dfe713f953699ce0010ca8c4d985e937b2eba8d09191406"
+    },
+    {
+      "path": "素材/Fig.3.5 2026年11月像素风生日日历.png",
+      "bytes": 1309192,
+      "sha256": "fe59849555fb7212f47a69ef38ced544ebf5f91ecabe0b1fb8657eaab624e9dd"
+    },
+    {
+      "path": "素材/Fig.3像素风十月日历木框画.png",
+      "bytes": 1463467,
+      "sha256": "f35af1fea967a318813de4be0a1616150a5e2254d0138a0ee8d6c30b5d0066d3"
+    },
+    {
+      "path": "素材/Fig.4热带棕榈树像素艺术丛林簇.png",
+      "bytes": 1314379,
+      "sha256": "6751e054b0114c77405365aa4e05808110a99b7d8d3e5170a9bd13cd35b4a794"
+    },
+    {
+      "path": "素材/Fig.5.1.png",
+      "bytes": 432644,
+      "sha256": "96a28fb2beeb34e4b0ac35c47687ae2c8c0191f0c337c7a95fb9b8698009bf2e"
+    },
+    {
+      "path": "素材/Fig.5.2.png",
+      "bytes": 296305,
+      "sha256": "3952a73021992607133cc6d9a49081e2cf9132030cfbe08f1f8c842521106e4d"
+    },
+    {
+      "path": "素材/Fig.5.3.png",
+      "bytes": 245118,
+      "sha256": "ce5f66b4b2b2526e10cd6d7bdea1692e3d78eaf7889d565219d7668f09a3560f"
+    },
+    {
+      "path": "素材/Fig.5.4.png",
+      "bytes": 183082,
+      "sha256": "eef4cebf38c816cca01b5c570e655d06c55b18e5097a5457cb97dce3238bf3c4"
+    },
+    {
+      "path": "素材/Fig.6.1像素艺术神秘来信 parchment.png",
+      "bytes": 2192737,
+      "sha256": "5c20dd4a9e759c073b3427f386f7070767553b818b72dff50f031bae6a32cb31"
+    },
+    {
+      "path": "素材/Fig.6像素艺术漂流瓶与藏宝信.png",
+      "bytes": 1269396,
+      "sha256": "3522237f3f7f4d22ee935f31a4f400f4410ff0d4b7ca2943355679f698365f35"
+    },
+    {
+      "path": "素材/Fig.7月光下的热带海滩篝灯.png",
+      "bytes": 1974704,
+      "sha256": "b6d6c16e87e0d224ca931e78c330be174917d1518715f4695f7f4c95f751642a"
+    },
+    {
+      "path": "素材/Fig.8.1戴生日帽的吃蛋少女.png",
+      "bytes": 1783157,
+      "sha256": "e996fb0dd1687bc28a79c7f0c0bcfece896c24033aaf4a6af7865188ec974457"
+    },
+    {
+      "path": "素材/Fig.8.2像素风女孩与蓝宝石项链.png",
+      "bytes": 1778823,
+      "sha256": "4a484ecca092cc8f0f5947834bf5d8c996abe6320daa10b883b6e6e9912e6646"
+    },
+    {
+      "path": "素材/Fig.8.3像素少女温柔撸猫.png",
+      "bytes": 1282346,
+      "sha256": "72ef74633f36400e95c5ef02b4d180625fc21795a3fb110d4d28fc483162914e"
+    },
+    {
+      "path": "素材/Fig.8欢庆派对帽像素少女.png",
+      "bytes": 1845821,
+      "sha256": "2e709bc7cd0f051e2e2735fd325d7bf058bc5dc611012a306e5fdb42654d4d69"
+    },
+    {
+      "path": "素材/Fig.9.1像素风渔夫与水波 Sprite.png",
+      "bytes": 1248594,
+      "sha256": "64b00dbb42d08b73b8424e16b065c2de2adf2efc7d41e834c045c1af1762f753"
+    },
+    {
+      "path": "素材/Fig.9.2像素烟花礼盒与彩色爆竹.png",
+      "bytes": 1011107,
+      "sha256": "2d4e99ef2d19f2ddef1a25fef151e26b035be2079bf61941b7c7a1e16aac9074"
+    },
+    {
+      "path": "素材/Fig.9.3像素艺术燃烧的火柴.png",
+      "bytes": 1086247,
+      "sha256": "d9412d991f8f02083d4ac2bf612caef5316104928ce5df966b85480b1264559c"
+    },
+    {
+      "path": "素材/Fig.9.4像素红色复活节彩蛋.png",
+      "bytes": 621166,
+      "sha256": "ace63edd30b3379557a7a72a70f9bc0d473656652aeba3b60b657557a3318ae6"
+    },
+    {
+      "path": "素材/Fig.9.5像素风冰蓝宝石水滴项链.png",
+      "bytes": 1604753,
+      "sha256": "ff63b2fc256c25e1935b9a6234a02c9cec2d28dedd30a11de1a170f1df00135c"
+    },
+    {
+      "path": "素材/Fig.9.6像素风黄色感叹号爆发图标.png",
+      "bytes": 1302863,
+      "sha256": "81ecf63b3aa61d686dbd074f3099bfb3c5790fd4c4158237c0a908e31413cd37"
+    },
+    {
+      "path": "素材/像素风奶油针织围巾贴图.png",
+      "bytes": 1222499,
+      "sha256": "8924386e62e745a3f2ef7f4162713c03d6e3c8a2a3bd0528a8f531dc86d158dd"
+    },
+    {
+      "path": "素材/冰蓝像素花束礼物.png",
+      "bytes": 1598394,
+      "sha256": "7c79cfc199c81660c4928c02b94a8f751e24c6071db83c4e805f1cb99bd542d8"
+    },
+    {
+      "path": "素材/原创循环音乐统计.json",
+      "bytes": 4611,
+      "sha256": "b261fbb6c36179d3fe1ac361032ac3ba79b873db48eb76f144f4d3b472d946fe"
+    },
+    {
+      "path": "素材/原创循环音乐说明.md",
+      "bytes": 2316,
+      "sha256": "fe9056bfc96180b846261db81d989730e6bae027e27026aa132df50a5f6d71b2"
+    },
+    {
+      "path": "素材/小黑猫出场喵喵.wav",
+      "bytes": 160852,
+      "sha256": "2bfcfa3aad0ef4e735314fdc716e0382b1022de1a876da37d446a5b33bb3d8fb"
+    },
+    {
+      "path": "素材/小黑猫音效来源.md",
+      "bytes": 1359,
+      "sha256": "fdd1b5412ea773b093efc54a8fd70db477f82c6b7ebaac209772e32cb2272f2e"
+    },
+    {
+      "path": "素材/戴眼镜的宽裤潮流少年.png",
+      "bytes": 1565569,
+      "sha256": "d44e86141a2e2e3da9538853b18f3532ce9541c53cf70e5b3022fd2c513ac2ef"
+    },
+    {
+      "path": "素材/星灯庆典.ogg",
+      "bytes": 411611,
+      "sha256": "7fcd6e10dad83aacf9023498fa2a9ee5d579843373f58d8d4d9ce1d281163bc8"
+    },
+    {
+      "path": "素材/星灯庆典.wav",
+      "bytes": 3840044,
+      "sha256": "c7e0aa30967929689e1c9237f2aa11a7ccd4bf5214387a28cf3d214ef2fbc3d5"
+    },
+    {
+      "path": "素材/晴日海风.ogg",
+      "bytes": 458651,
+      "sha256": "5fbd3cd6e459a7f31bce89b0f16507dda527c6119af742fe4818449ab6fac1d8"
+    },
+    {
+      "path": "素材/晴日海风.wav",
+      "bytes": 4388616,
+      "sha256": "c70b3f21b94ffbfb4e8671e6c040b9c1c9a395ed92b71302007aef19d06665a2"
+    },
+    {
+      "path": "素材/棕榈树叶沙沙声.wav",
+      "bytes": 46124,
+      "sha256": "b19791e134921bcdfc11827e3a74ba122f26245c96f9c4bca9b42359c00dbf3a"
+    }
+  ]
+}
